@@ -10,7 +10,7 @@ import org.w3c.dom.ls.LSOutput;
 import java.util.*;
 
 public class Principal {
-    
+
     private Scanner teclado = new Scanner(System.in);
     private ConsumoApi consumoAPI = new ConsumoApi();
     private static final String URL_BASE = "https://gutendex.com/books/";
